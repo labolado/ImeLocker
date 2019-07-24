@@ -1,15 +1,15 @@
-![ImeLocker](README.assets/imelocker.png). This application is modified from https://github.com/itsuhane/SwitchKey .
+This application was modified from https://github.com/itsuhane/SwitchKey .
 
 # ImeLocker
 
 Automatically lock the input source.
 
 Ever hassled by wrong input source when switching application?  
-ImeLocker can automatically locker your choice for you.
+ImeLocker can automatically lock your choice for you.
 
 ### Download & Install (Manaual)
 
-[Version 1.1.1](https://github.com/labolado/ImeLocker/releases/download/v1.0.0/ImeLocker.zip) (macOS)  
+[Version 1.0.0](https://github.com/labolado/ImeLocker/releases/download/ImeLocker.zip) (macOS)  
 Uncompress, then drag & drop into your Applications folder.
 
 
