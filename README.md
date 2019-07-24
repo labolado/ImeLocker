@@ -44,4 +44,4 @@ So you don't have to pay for them anymore.
 
 ### Bug Report & Feature Request
 
-Welcome! Please click [here](https://github.com/itsuhane/SwitchKey/issues/new).
+Welcome! Please click [here](https://github.com/labolado/ImeLocker/issues/new).
