@@ -9,7 +9,7 @@ ImeLocker can automatically lock your choice for you.
 
 ### Download & Install (Manaual)
 
-[Version 1.0.0](https://github.com/labolado/ImeLocker/releases/download/ImeLocker.zip) (macOS)  
+[Version 1.0.0](https://github.com/labolado/ImeLocker/releases/download/v1.0.0/ImeLocker.zip) (macOS)  
 Uncompress, then drag & drop into your Applications folder.
 
 
